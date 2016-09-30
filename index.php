@@ -18,14 +18,14 @@ include 'connect.php';
 
 <h1 align="center">TABEL DATA</h1>
 
-<center><a href="input.php">INPUT DATA &Gt; </a></center>
+<center><a href="input.php">Input data &Gt; </a></center>
 <br />
 <table border="1">
     <thead>
         <tr>
             <th>No</th>
             <th>Nama</th>
-            <th>JENIS KELAMIN</th>
+            <th>Jenis Kemalin</th>
             <th>Alamat</th>
             <th>No Hp</th>
             <th>Pilihan</th>
